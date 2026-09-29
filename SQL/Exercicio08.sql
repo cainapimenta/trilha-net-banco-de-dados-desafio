@@ -1,0 +1,5 @@
+SELECT
+	T0.*
+FROM Atores T0
+WHERE
+	T0."Genero" = 'M'
